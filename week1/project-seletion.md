@@ -1,16 +1,17 @@
-# Project Selection
+### Selected Project 1
 
-## Selected Project 1
-Static Website with CDN
+### Static Website with CDN
 
-### Why I selected it
-I selected this project because it is beginner-friendly and it will help me improve my skills in S3, CloudFront, and content delivery.
+## Why I selected it
+I selected this project because I wanted to strengthen my understanding of hosting a static website on AWS and learn how CloudFront improves content delivery. It also gave me hands-on experience with S3, website hosting, public access settings, and CDN integration.
 
-### Tools
+## Tools
 - Amazon S3
 - CloudFront
 - SSL Certificate
-- Op## Selected Project 2
+- Optional custom domain
+
+## Selected Project 2
 
 ### Serverless Function API
 
@@ -21,5 +22,4 @@ I selected this project because I wanted to gain hands-on experience with server
 - AWS Lambda
 - API Gateway
 - Node.js
-- Environment Variablestional custom domain
-
+- Environment Variables
