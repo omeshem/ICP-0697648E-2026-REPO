@@ -10,16 +10,16 @@ I selected this project because it is beginner-friendly and it will help me impr
 - Amazon S3
 - CloudFront
 - SSL Certificate
-- Optional custom domain
+- Op## Selected Project 2
 
-## Selected Project 2
-Managed Database Deployment
+### Serverless Function API
 
-### Why I selected it
-I selected this project because I already have some basic experience with RDS and MySQL, and I want to deepen my understanding of managed databases, backups, and connection security.
+## Why I selected it
+I selected this project because I wanted to gain hands-on experience with serverless architecture using AWS Lambda and API Gateway. I also wanted to understand how APIs work, how routes can return different responses, and how cloud services can run code without managing servers.
 
-### Tools
-- Amazon RDS
-- MySQL
-- Security Groups
-- Backup configuration
+## Tools
+- AWS Lambda
+- API Gateway
+- Node.js
+- Environment Variablestional custom domain
+
